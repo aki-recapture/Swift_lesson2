@@ -2,8 +2,8 @@
 //  ResultViewController.swift
 //  NameScoreApp
 //
-//  Created by 近藤明広 on 2020/06/08.
-//  Copyright © 2020 AkihiroKondo. All rights reserved.
+//  Created by xxxxxx on 2020/06/08.
+//  Copyright © 2020 xxxxxx. All rights reserved.
 //
 
 import UIKit
