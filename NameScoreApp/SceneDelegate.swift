@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  NameScoreApp
 //
-//  Created by 近藤明広 on 2020/06/07.
-//  Copyright © 2020 AkihiroKondo. All rights reserved.
+//  Created by xxxxx on 2020/06/07.
+//  Copyright © 2020 xxxxx. All rights reserved.
 //
 
 import UIKit
