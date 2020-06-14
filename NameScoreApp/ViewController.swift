@@ -1,10 +1,7 @@
-//
 //  ViewController.swift
 //  NameScoreApp
-//
 //  Created by xxxxx on 2020/06/07.
-//  Copyright © 2020 xxxxx. All rights reserved.
-//
+//  Copyright © 2020 xxxxx. All rights reserved
 
 import UIKit
 
